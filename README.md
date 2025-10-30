@@ -47,8 +47,6 @@ Whether you are a **manual trader** or a **strategy developer**, Ichimoku Pro he
   <img src="assets/Ichimuko Pro 4.jpg" width="32%" />
 </p>
 
-💡 *Tip:* Include 2–3 screenshots from different sections (signal examples, cloud clarity, and settings panel) for the best presentation.
-
 ---
 ## 🔒 Security Notice
 
@@ -93,3 +91,4 @@ Unauthorized redistribution of the source code or compiled file is prohibited.
 ---
 
 ✅ *Ichimoku Pro — Bringing clarity and precision to cloud-based trading.*
+
